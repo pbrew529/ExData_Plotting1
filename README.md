@@ -1,3 +1,8 @@
+## Information
+See the [instructions.md](Instructions.md). file for details on how to use the scrips in this projecct
+
+Scripts added to generate plots
+
 ## Introduction
 
 This assignment uses data from
